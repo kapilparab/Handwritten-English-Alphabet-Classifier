@@ -1,6 +1,5 @@
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
-import matplotlib.pyplot as plt
 import os
 import numpy as np
 
